@@ -1,12 +1,12 @@
-Adventure Game
+# Adventure Game
 
 Project made with Python - Udacity Nanodegree
 
-Project Overview:
+### Project Overview:
 
 Simpler version of an old-fashioned text-based adventure game.
 
-How it works:
+### How it works:
 
 - The game gives players a description of what's happening, and then asks them to make a choice.
 - Something different happens depending on the choice the player made.
@@ -14,7 +14,7 @@ How it works:
 - The game has conditions for winning and losing.
 - When the game is over, it asks if the player wants to play again.
 
-Project Instructions:
+### Project Instructions:
 
 1. Print descriptions of what's happening for the player
 2. Pausing between printing descriptions
